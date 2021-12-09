@@ -1,2 +1,3 @@
 # Demo_intro
-Learning git here
+Learning git 
+getting there!
